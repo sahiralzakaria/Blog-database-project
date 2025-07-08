@@ -1,2 +1,2 @@
-# Blog database project ( Blog veritabanı projesi ).
+# Blog database project ( Blog veritabanı projesi ) .
 
