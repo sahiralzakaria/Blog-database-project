@@ -1,5 +1,6 @@
 # Blog Database Project (Blog Veritabanı Projesi)
 
+
 ## About the Project
 
 This project models the fundamental database structure of a blog system. It is written in **PostgreSQL** and includes essential entities such as users, posts, comments, and categories.
