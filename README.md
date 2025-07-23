@@ -14,6 +14,7 @@ The goal is to design a reliable and scalable database structure for blog system
 - **Query Language:** SQL
 - **Design Pattern:** Relational data modeling (ER model)
 
+
 ## 📄 Database Contents
 
 The database includes the following tables:
