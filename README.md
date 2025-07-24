@@ -8,6 +8,7 @@ This project models the fundamental database structure of a blog system. It is w
 
 The goal is to design a reliable and scalable database structure for blog systems, applying relational database principles effectively.
 
+
 ## Technologies Used
 
 - **Database:** PostgreSQL
