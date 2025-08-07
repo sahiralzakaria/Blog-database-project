@@ -1,5 +1,6 @@
 # Blog Database Project (Blog Veritabanı Projesi)
 
+
 ## About the Project
 
 
