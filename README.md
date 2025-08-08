@@ -20,7 +20,6 @@ The goal is to design a reliable and scalable database structure for blog system
 ## 📄 Database Contents
 
 
-
 The database includes the following tables:
 
 - `users` – Stores user information
