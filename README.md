@@ -38,6 +38,7 @@ The database includes the following tables:
 psql -U your_username -d your_database_name -f blog_project.sql
 ```
 
+
 > Replace `your_username` and `your_database_name` with your actual PostgreSQL username and database name.
 
 ## 📝 Contributing
