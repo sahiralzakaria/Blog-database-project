@@ -21,6 +21,7 @@ The goal is to design a reliable and scalable database structure for blog system
 
 The database includes the following tables:
 
+
 - `users` – Stores user information
 - `posts` – Blog posts written by users
 - `comments` – Comments written by users on posts
