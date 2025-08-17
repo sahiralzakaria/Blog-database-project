@@ -33,12 +33,9 @@ The database includes the following tables:
 1. Make sure PostgreSQL is installed on your system.
 2. Open your terminal or pgAdmin and run the SQL script:
 
-
-
 ```bash
 psql -U your_username -d your_database_name -f blog_project.sql
 ```
-
 
 
 > Replace `your_username` and `your_database_name` with your actual PostgreSQL username and database name.
