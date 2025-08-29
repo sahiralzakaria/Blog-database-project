@@ -44,6 +44,7 @@ psql -U your_username -d your_database_name -f blog_project.sql
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a Pull Request.
 
 
+
 ## 👤 Author
 
 This project was developed by **Sahir Zakaria**.
