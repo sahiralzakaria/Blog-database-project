@@ -30,6 +30,7 @@ The database includes the following tables:
 ## 🧪 How to Use
 
 
+
 1. Make sure PostgreSQL is installed on your system.
 2. Open your terminal or pgAdmin and run the SQL script:
 
