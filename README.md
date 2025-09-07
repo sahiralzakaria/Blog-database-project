@@ -11,6 +11,7 @@ The goal is to design a reliable and scalable database structure for blog system
 
 ## Technologies Used
 
+
 - **Database:** PostgreSQL
 - **Query Language:** SQL
 - **Design Pattern:** Relational data modeling (ER model)
