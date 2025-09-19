@@ -28,9 +28,7 @@ The database includes the following tables:
 - `tags` – Tags used for posts
 - `post_tags` – Manages the many-to-many relationship between posts and tags
 
-
 ## 🧪 How to Use
-
 
 1. Make sure PostgreSQL is installed on your system.
 2. Open your terminal or pgAdmin and run the SQL script:
