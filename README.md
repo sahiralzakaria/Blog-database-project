@@ -34,6 +34,7 @@ The database includes the following tables:
 2. Open your terminal or pgAdmin and run the SQL script:
 
 
+
 ```bash
 psql -U your_username -d your_database_name -f blog_project.sql
 ```
